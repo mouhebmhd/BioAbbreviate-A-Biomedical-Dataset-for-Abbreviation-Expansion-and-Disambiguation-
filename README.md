@@ -1,0 +1,2 @@
+# BioAbbreviate-A-Biomedical-Dataset-for-Abbreviation-Expansion-and-Disambiguation-
+BioAbbreviate: A Biomedical Dataset for Abbreviation Expansion and Disambiguation A large-scale, open-access dataset extracted from PubMed, PLOS, and PMC Europe for abbreviation detection, expansion, and disambiguation in biomedical texts. Supports NLP tasks like text simplification, translation, and information retrieval.
